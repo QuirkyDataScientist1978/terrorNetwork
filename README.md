@@ -5,6 +5,8 @@ I was selected for the Summer Research Program at KOC University, Istanbul, Turk
 
 Project is supplied by novel <a href="https://nonstatearmedgroups.ku.edu.tr" target="_blank"> NAG Dataset </a>. My task was focused on Data Visualization using directed graphs, analyzing yearly variations, cycles, and Hypothesis testing. NAG stands for Non-State Armed Groups (terrorists or revolutionaries).
 
+Webpage: https://newtein.github.io/terrorNetwork/
+
 ## Evolution of NAG Identification.
 
 <img src='Visualizations/NAGIDs_Comp.gif'/>
