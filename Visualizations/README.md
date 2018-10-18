@@ -12,7 +12,7 @@ Evolution_of_States_in_Disguise: Illustrates support-target relationship with di
 
 Target_Asia: Filters above ' Evolution of NAGID ' image to only Asian Targets.
 
-<img src='Comp_5.gif'/>
+<img src='NAGIDs_Comp.gif'/>
 
 
 Target_Europe: Filters above '  Evolution_of_States_in_Disguise  ' image to only European Targets.
