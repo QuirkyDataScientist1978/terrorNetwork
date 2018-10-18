@@ -11,7 +11,7 @@ Evolution of NAGID: Illustrates various NAGIDs namely Ethno-National, Religious,
 Evolution_of_States_in_Disguise: Illustrates support-target relationship with different color of each target continent. For an instance, European target counties are colored with Cyan. 
 
 Target_Asia: Filters above ' Evolution of NAGID ' image to only Asian Targets.
-<img src='http://http://iharshit.in/images/Evolution_of_NAGIDs.gif'>
+<img src='http://iharshit.in/images/Evolution_of_NAGIDs.gif'>
 
 Target_Europe: Filters above '  Evolution_of_States_in_Disguise  ' image to only European Targets.
 
